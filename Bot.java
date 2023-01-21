@@ -80,7 +80,7 @@ public class Bot {
 
     }};
     final Map<String, String> ANSWERS_BY_PATTERNS = new HashMap<String, String>() {{
-        put("hello", "Чим можу допомогти?");
+        put("hello", "Здрастуйте, радий вас бачити чим можу допомогти?");
         put("bye", "До побачення.");
         put("address", "Ви в вулиця Шевченка, 95, Чернігів");
         put("name", "Чернігівська Політехніка");
